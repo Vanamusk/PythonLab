@@ -6,7 +6,5 @@ dependencies:
   - numpy
   - pandas
   - plotly
-  - xlrd
-  - pycrypto
-  - more-itertools
   - path.py
+  - statsmodels
