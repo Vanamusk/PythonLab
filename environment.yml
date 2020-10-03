@@ -1,0 +1,12 @@
+name: base
+channels:
+  - plotly
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - plotly
+  - xlrd
+  - pycrypto
+  - more-itertools
+  - path.py
